@@ -1,0 +1,225 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/psoriasis---secondary.py
+inputModule3:
+  class: File
+  path: python/arthropathic-psoriasis---secondary.py
+inputModule4:
+  class: File
+  path: python/parapsoriasis---secondary.py
+inputModule5:
+  class: File
+  path: python/psoriasis-vulgaris---secondary.py
+inputModule6:
+  class: File
+  path: python/nonpustular-psoriasis---secondary.py
+inputModule7:
+  class: File
+  path: python/psoriasis-guttate---secondary.py
+inputModule8:
+  class: File
+  path: python/other-psoriasis---secondary.py
+inputModule9:
+  class: File
+  path: python/psoriasis-unspecified---secondary.py
+inputModule10:
+  class: File
+  path: python/small-psoriasis---secondary.py
+inputModule11:
+  class: File
+  path: python/large-psoriasis---secondary.py
+inputModule12:
+  class: File
+  path: python/psoriasis-retiform---secondary.py
+inputModule13:
+  class: File
+  path: python/similar-psoriasis---secondary.py
+inputModule14:
+  class: File
+  path: python/psoriasis-impetigo---secondary.py
+inputModule15:
+  class: File
+  path: python/psoriasis-seizure---secondary.py
+inputModule16:
+  class: File
+  path: python/psoriasis-region---secondary.py
+inputModule17:
+  class: File
+  path: python/psoriasis-mutilan---secondary.py
+inputModule18:
+  class: File
+  path: python/psoriasis-dystrophy---secondary.py
+inputModule19:
+  class: File
+  path: python/psoriasis-scalp---secondary.py
+inputModule20:
+  class: File
+  path: python/psoriasis-infantile---secondary.py
+inputModule21:
+  class: File
+  path: python/flexural-psoriasis---secondary.py
+inputModule22:
+  class: File
+  path: python/stable-psoriasis---secondary.py
+inputModule23:
+  class: File
+  path: python/psoriasis-condition---secondary.py
+inputModule24:
+  class: File
+  path: python/psoriasis-eczematized---secondary.py
+inputModule25:
+  class: File
+  path: python/psoriasis-pitting---secondary.py
+inputModule26:
+  class: File
+  path: python/psoriasis-kobner---secondary.py
+inputModule27:
+  class: File
+  path: python/psoriasis-child---secondary.py
+inputModule28:
+  class: File
+  path: python/psoriasis-arthritis---secondary.py
+inputModule29:
+  class: File
+  path: python/psoriasis-annularis---secondary.py
+inputModule30:
+  class: File
+  path: python/psoriasis-dactylitis---secondary.py
+inputModule31:
+  class: File
+  path: python/psoriasis-lichenoide---secondary.py
+inputModule32:
+  class: File
+  path: python/psoriasis-circinata---secondary.py
+inputModule33:
+  class: File
+  path: python/plaque-psoriasis---secondary.py
+inputModule34:
+  class: File
+  path: python/rupioid-psoriasis---secondary.py
+inputModule35:
+  class: File
+  path: python/psoriasis-palmar---secondary.py
+inputModule36:
+  class: File
+  path: python/psoriasis-herpetiformi---secondary.py
+inputModule37:
+  class: File
+  path: python/psoriasis-spine---secondary.py
+inputModule38:
+  class: File
+  path: python/psoriasis-plantaris---secondary.py
+inputModule39:
+  class: File
+  path: python/psoriasis-atrophican---secondary.py
+inputModule40:
+  class: File
+  path: python/psoriasis-varioliformi---secondary.py
+inputModule41:
+  class: File
+  path: python/psoriasis-diffusa---secondary.py
+inputModule42:
+  class: File
+  path: python/psoriasis-geographica---secondary.py
+inputModule43:
+  class: File
+  path: python/psoriasis-gyrata---secondary.py
+inputModule44:
+  class: File
+  path: python/psoriasis-universalis---secondary.py
+inputModule45:
+  class: File
+  path: python/psoriasis-inveterata---secondary.py
+inputModule46:
+  class: File
+  path: python/psoriasis-punctata---secondary.py
+inputModule47:
+  class: File
+  path: python/psoriasis-papulata---secondary.py
+inputModule48:
+  class: File
+  path: python/juvenile-psoriasis---secondary.py
+inputModule49:
+  class: File
+  path: python/psoriasis-pregnancy---secondary.py
+inputModule50:
+  class: File
+  path: python/psoriasis-joint---secondary.py
+inputModule51:
+  class: File
+  path: python/seborrheic-psoriasis---secondary.py
+inputModule52:
+  class: File
+  path: python/psoriasis-iritis---secondary.py
+inputModule53:
+  class: File
+  path: python/nevoid-psoriasis---secondary.py
+inputModule54:
+  class: File
+  path: python/psoriasis-vulva---secondary.py
+inputModule55:
+  class: File
+  path: python/psoriasis-zumbush---secondary.py
+inputModule56:
+  class: File
+  path: python/psoriasis-pattern---secondary.py
+inputModule57:
+  class: File
+  path: python/psoriasis-extending---secondary.py
+inputModule58:
+  class: File
+  path: python/psoriasis-preexisting---secondary.py
+inputModule59:
+  class: File
+  path: python/psoriasis-infancy---secondary.py
+inputModule60:
+  class: File
+  path: python/psoriasis-adulthood---secondary.py
+inputModule61:
+  class: File
+  path: python/psoriasis-onset---secondary.py
+inputModule62:
+  class: File
+  path: python/relative-psoriasis---secondary.py
+inputModule63:
+  class: File
+  path: python/psoriasis-generalized---secondary.py
+inputModule64:
+  class: File
+  path: python/psoriasis-photoaggravated---secondary.py
+inputModule65:
+  class: File
+  path: python/psoriasis-palmoplantar---secondary.py
+inputModule66:
+  class: File
+  path: python/early-psoriasis---secondary.py
+inputModule67:
+  class: File
+  path: python/acute-psoriasis---secondary.py
+inputModule68:
+  class: File
+  path: python/psoriasis-penis---secondary.py
+inputModule69:
+  class: File
+  path: python/perianal-psoriasis---secondary.py
+inputModule70:
+  class: File
+  path: python/psoriasis-margin---secondary.py
+inputModule71:
+  class: File
+  path: python/psoriasis-adolescence---secondary.py
+inputModule72:
+  class: File
+  path: python/familial-psoriasis---secondary.py
+inputModule73:
+  class: File
+  path: python/erythrodermic-psoriasis---secondary.py
+inputModule74:
+  class: File
+  path: python/psoriasis-pustulosis---secondary.py
+inputModule75:
+  class: File
+  path: python/output-cases.py
